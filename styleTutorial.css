@@ -1,0 +1,68 @@
+
+
+head{
+    color: white;
+}
+
+
+body{
+    background-image: url("unitylogo.png");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    padding-top: 200px;
+    
+    
+}
+
+.box{
+    background-color: rgba(0, 0, 0, 0.5);
+    width: 1210px;
+    height:fit-content;
+    position: absolute;
+    padding: 30px;
+    scroll-behavior: smooth;
+    left: 50%;
+    transform: translate(-50%, 0);
+    max-width: 80%;
+    
+
+}
+
+h1{
+    
+    text-align: center
+    
+}
+
+
+.Video1{
+    display: flex;
+    align-items: left;
+    padding: 30px;
+}
+
+
+.Video1:hover{
+    background-color: rgba(0, 0, 0, 0.1);
+}
+
+.Name1{
+    padding-left: 10px;
+}
+
+.Description1{
+    padding-left: 10px;
+    padding-top: 10px;
+    
+}
+
+.TitleText{
+    color: black;
+}
+
+
+
+
+

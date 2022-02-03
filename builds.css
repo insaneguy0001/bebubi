@@ -1,0 +1,58 @@
+
+
+head{
+    color: white;
+}
+
+
+body{
+    background-image: url("logo.png");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    padding-top: 200px;
+    justify-content: center
+    
+}
+
+.box{
+    
+    background-color: rgba(0, 0, 0, 0.3);
+    width: 1210px;
+    height:fit-content;
+    position: absolute;
+    padding: 30px;
+    scroll-behavior: smooth;
+    left: 50%;
+    transform: translate(-50%, 12%);
+    max-width: 80%;
+    font-size:larger;
+    justify-content: center
+    
+
+}
+
+h1{
+    
+    text-align: center
+    
+}
+
+.welcome{
+    text-align: center
+}
+
+.build:hover{
+    background-color: rgba(153, 153, 153, 0.3);
+}
+
+
+
+.build{
+    
+    display: flex;
+    align-items: left;
+    padding: 30px;
+    
+}
